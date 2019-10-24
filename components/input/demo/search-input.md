@@ -32,7 +32,7 @@ ReactDOM.render(
     <br />
     <Search
       placeholder="input search text"
-      enterButton="Search"
+      enterButton="dede"
       size="large"
       onSearch={value => console.log(value)}
     />
